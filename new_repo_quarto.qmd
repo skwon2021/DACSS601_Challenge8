@@ -5,10 +5,14 @@ format: html
 editor: visual
 ---
 
-## Movies Question
+## Challenge 8 Questions
 
-1.  What was the last movie you watched in a theater?\
+1.  **What was the last movie you watched in a theater?**\
     \
     The last movie I watched in the theater was Godzilla Minus One (it is excellent, I highly recommend it). Unfortunately it is no longer in theaters.\
     \
-    I also highly recommend the movie Oppenheimer, which was incredible in Imax.
+    I also highly recommend the movie Oppenheimer, which was incredible in Imax.\
+
+2.  **What did you eat for today's lunch?**\
+    \
+    I ate just coffee, water, and some olives.
