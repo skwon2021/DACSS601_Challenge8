@@ -1,0 +1,12 @@
+---
+title: "new_repo_quarto"
+author: "Spencer Kwon"
+format: html
+editor: visual
+---
+
+## Movies Question
+
+1.  What was the last movie you watched in a theater?\
+    \
+    The last movie I watched in the theater was Godzilla Minus One (it is excellent, I highly recommend it). Unfortunately it is no longer in theaters.
